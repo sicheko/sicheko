@@ -1,5 +1,5 @@
 <a href="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="">
+    <img src="Banner01.png">
   </picture>
 </a>
